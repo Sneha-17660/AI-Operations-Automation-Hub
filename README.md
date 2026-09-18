@@ -1,4 +1,4 @@
-# AI Operations Automation Hub — Corrected Local Version
+# AI Operations Automation Hub
 
 Full-stack MVP for business-case ingestion, AI classification, operational analytics, chat, workflow automation and email drafting.
 
