@@ -1,0 +1,21 @@
+case_id,customer,issue,status,category,priority
+T001,Acme Retail,Invoice mismatch with purchase order,Unresolved,Payment,High
+T002,BlueWave Stores,Customer login failing after password reset,Unresolved,Technical,High
+T003,Sunrise Pharma,Shipment delayed by three days,Unresolved,Delivery,Medium
+T004,Vertex Systems,API returns error for order creation,Unresolved,Technical,High
+T005,Nova Healthcare,Refund successfully processed,Resolved,Payment,Low
+T006,Prime Logistics,Tracking information unavailable,Unresolved,Delivery,Medium
+T007,GreenMart,Duplicate charge on customer invoice,Unresolved,Payment,High
+T008,Orion Manufacturing,Portal export fails for large files,Unresolved,Technical,High
+T009,Acme Retail,Complaint regarding delayed response,Unresolved,Claims,Medium
+T010,BlueWave Stores,Partial shipment received,Unresolved,Delivery,Medium
+T011,Sunrise Pharma,Incorrect tax amount on invoice,Unresolved,Payment,High
+T012,Vertex Systems,User account locked unexpectedly,Unresolved,Technical,High
+T013,Nova Healthcare,Delivery received in good condition,Resolved,Delivery,Low
+T014,Prime Logistics,Missing proof of delivery,Unresolved,Delivery,Medium
+T015,GreenMart,Customer requests refund status,Unresolved,Payment,Medium
+T016,Orion Manufacturing,Duplicate service ticket created,Unresolved,Claims,Low
+T017,Acme Retail,Invoice amount differs from contract,Unresolved,Payment,High
+T018,BlueWave Stores,Order portal timeout during checkout,Unresolved,Technical,High
+T019,Sunrise Pharma,Customer complaint about response time,Unresolved,Claims,Medium
+T020,Nova Healthcare,Refund completed and confirmed,Resolved,Payment,Low

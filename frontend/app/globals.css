@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { min-height: 100%; }
+body { margin: 0; background: #020617; color: #e2e8f0; font-family: Arial, Helvetica, sans-serif; }
+.card { background: rgba(15,23,42,.78); border: 1px solid #1e293b; border-radius: 1rem; }
